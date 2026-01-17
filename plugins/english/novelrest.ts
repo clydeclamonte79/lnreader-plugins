@@ -225,3 +225,5 @@ class NovelRestPlugin implements Plugin.PluginBase {
 }
 
 export default new NovelRestPlugin();
+
+// trigger build
